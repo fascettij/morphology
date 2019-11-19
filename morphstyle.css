@@ -1,0 +1,125 @@
+#mydiv {
+    width:475px;
+    position: absolute;
+    cursor:move;
+    z-index: 9;
+    background-color: #F0D7AF;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+    text-align:justify;
+}
+
+#mydivtwo {
+    width:475px;
+    position: absolute;
+    cursor:move;
+    z-index: 9;
+    background-color: #F0D7AF;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+    text-align:justify;
+}
+
+#mydivthree {
+    width:475px;
+    position: absolute;
+    cursor:move;
+    z-index: 9;
+    background-color: #F0D7AF;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+    text-align:justify;
+}
+
+#mydivfour {
+    width:475px;
+    position: absolute;
+    cursor:move;
+    z-index: 9;
+    background-color: #F0D7AF;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+    text-align:justify;
+}
+
+#mydivfive {
+    width:475px;
+    position: absolute;
+    cursor:move;
+    z-index: 9;
+    background-color: #F0D7AF;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+    text-align:justify;
+}
+
+#mydivsix {
+    width:475px;
+    position: absolute;
+    cursor:move;
+    z-index: 9;
+    background-color: #F0D7AF;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+    text-align:justify;
+}
+
+.head {
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: #d9c39c;
+    color:black;
+    font-size:12px;
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+    text-align:center;
+    border: 1px solid #d3d3d3;
+    margin-bottom:10px;
+}
+
+#num {
+	size:5%;
+	color:red;
+	z-index:-1;
+}
+
+.left {
+	float:left;
+	margin-left:20px;
+	color:red;
+}
+
+.right {
+	float:right;
+	margin-right:20px;
+	color:red;
+}
+
+h3 {
+	background-color:#ebd4ab;
+	text-align:left;
+	border: 1px solid #d3d3d3;
+	text-indent:50px;
+}
+
+#ind {
+	
+}
+
+.iframe {
+	width:100%;
+	height:250px;
+}
+.hidden {
+	display:none;
+}
+
+.show {
+	display:block;
+}
